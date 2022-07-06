@@ -3,7 +3,7 @@
 
 [ลองเล่นเลย](https://prophet-button.netlify.app)
 
-<img src="https://raw.githubusercontent.com/SaltyAom/prophet-launchpad/main/assets/image/prophet-launchpad.jpg" alt="สวัสดีครับท่านศาสดา button 2" >
+<img src="https://raw.githubusercontent.com/cunny-SHiT6/holy-prophet-launchpad/main/assets/image/prophet-launchpad.jpg" alt="สวัสดีครับท่านศาสดา button 2" >
 
 ## Prerequisted
 1. ลง [Node.js](http://nodejs.org/)
