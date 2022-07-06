@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: cunny-SHiT6/jerm-action@main
+      - uses: st4rchaser/jerm-action@main
