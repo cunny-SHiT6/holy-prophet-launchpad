@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-  <title>Prophet Launchpad</title>
+  <title>Jermed Prophet Launchpad</title>
 </svelte:head>
 
 <main id="launchpad" class="py-1 gap-1">
